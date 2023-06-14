@@ -10,3 +10,5 @@ URL - https://www.codewars.com/kata/52b7ed099cdc285c300001cd
 2. Multiply (8 kyu)
 URL - https://www.codewars.com/kata/50654ddff44f800200000004
 
+3. Sum - Square Even, Root Odd (7 kyu)
+URL - https://www.codewars.com/kata/5a4b16435f08299c7000274f
