@@ -12,3 +12,6 @@ URL - https://www.codewars.com/kata/50654ddff44f800200000004
 
 3. Sum - Square Even, Root Odd (7 kyu)
 URL - https://www.codewars.com/kata/5a4b16435f08299c7000274f
+
+4. Find Array (7 kyu)
+URL - https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/python
