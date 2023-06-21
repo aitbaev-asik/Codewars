@@ -18,3 +18,6 @@ URL - https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/python
 
 5. Snail (4 kyu)
 URL - https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+
+6. Not very secure (5 kyu)
+URL - https://www.codewars.com/kata/526dbd6c8c0eb53254000110
