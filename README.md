@@ -22,5 +22,8 @@ URL - https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
 6. Not very secure (5 kyu)
 URL - https://www.codewars.com/kata/526dbd6c8c0eb53254000110
 
-7.Create Phone Number (6kyu)
+7. Create Phone Number (6kyu)
 URL - https://www.codewars.com/kata/525f50e3b73515a6db000b83
+
+8. Quarter of the year (8kyu)
+URL - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
