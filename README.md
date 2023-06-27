@@ -31,3 +31,5 @@ URL - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 9. get character from ASCII Value (8kyu)
 URL - https://www.codewars.com/kata/55ad04714f0b468e8200001c
 
+10. Isograms (7kyu)
+URL - https://www.codewars.com/kata/54ba84be607a92aa900000f1
