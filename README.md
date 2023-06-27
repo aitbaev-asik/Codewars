@@ -27,3 +27,7 @@ URL - https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
 8. Quarter of the year (8kyu)
 URL - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+
+9. get character from ASCII Value (8kyu)
+URL - https://www.codewars.com/kata/55ad04714f0b468e8200001c
+
