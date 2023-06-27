@@ -9,3 +9,9 @@ isIsogram "Dermatoglyphics" = true
 isIsogram "moose" = false
 isIsogram "aba" = false
 """
+
+
+def is_isogram(string):
+    if len(set(string.lower())) == len(string):
+        return True
+    return False
