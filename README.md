@@ -33,3 +33,7 @@ URL - https://www.codewars.com/kata/55ad04714f0b468e8200001c
 
 10. Isograms (7kyu)
 URL - https://www.codewars.com/kata/54ba84be607a92aa900000f1
+
+11. Factorial tail (4kyu)
+URL - https://www.codewars.com/kata/55c4eb777e07c13528000021
+
