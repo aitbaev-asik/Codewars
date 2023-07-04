@@ -14,7 +14,7 @@ def sum_square_even_root_odd(nums):
         if num % 2 ==0:
             new.append(num ** 2)
         else:
-            new.append(num ** 0.5) 
+            new.append(num ** 0.5)
     total_sum = sum(new)
     rounded_sum = round(total_sum, 2)
     return rounded_sum
