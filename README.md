@@ -48,3 +48,6 @@ URL - https://www.codewars.com/kata/55685cd7ad70877c23000102
 
 15. Who likes it (6 kyu)
 URL - https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+
+16. Detect pangram (6 kyu)
+URL - https://www.codewars.com/kata/545cedaa9943f7fe7b000048
