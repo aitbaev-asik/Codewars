@@ -66,3 +66,6 @@ URL - https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 21. Sum a list but ignore any duplicates (7 kyu)
 URL - https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2
+
+22. Perimeter of squares in a rectangle (5 kyu)
+URL - https://www.codewars.com/kata/559a28007caad2ac4e000083
