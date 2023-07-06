@@ -39,3 +39,7 @@ URL - https://www.codewars.com/kata/55c4eb777e07c13528000021
 
 12. Even or Odd (8kyu)
 URL - https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+
+13. Sum of positive (7kyu)
+URL - https://www.codewars.com/kata/5715eaedb436cf5606000381
+
