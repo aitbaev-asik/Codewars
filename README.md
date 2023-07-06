@@ -51,3 +51,6 @@ URL - https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 
 16. Detect pangram (6 kyu)
 URL - https://www.codewars.com/kata/545cedaa9943f7fe7b000048
+
+17. Convert string to camel case (6 kyu)
+URL - https://www.codewars.com/kata/517abf86da9663f1d2000003
