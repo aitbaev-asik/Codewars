@@ -60,3 +60,6 @@ URL - https://www.codewars.com/kata/54e6533c92449cc251001667
 
 19. Fibonacci Streaming (5 kyu)
 URL - https://www.codewars.com/kata/55695bc4f75bbaea5100016b
+
+20. Highest and Lowest (7 kyu)
+URL - https://www.codewars.com/kata/554b4ac871d6813a03000035
