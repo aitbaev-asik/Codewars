@@ -43,3 +43,5 @@ URL - https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 13. Sum of positive (7kyu)
 URL - https://www.codewars.com/kata/5715eaedb436cf5606000381
 
+14. Return negative (8kyu)
+URL - https://www.codewars.com/kata/55685cd7ad70877c23000102
