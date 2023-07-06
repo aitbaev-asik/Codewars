@@ -45,3 +45,6 @@ URL - https://www.codewars.com/kata/5715eaedb436cf5606000381
 
 14. Return negative (8kyu)
 URL - https://www.codewars.com/kata/55685cd7ad70877c23000102
+
+15. Who likes it (6 kyu)
+URL - https://www.codewars.com/kata/5266876b8f4bf2da9b000362
