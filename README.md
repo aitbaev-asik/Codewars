@@ -63,3 +63,6 @@ URL - https://www.codewars.com/kata/55695bc4f75bbaea5100016b
 
 20. Highest and Lowest (7 kyu)
 URL - https://www.codewars.com/kata/554b4ac871d6813a03000035
+
+21. Sum a list but ignore any duplicates (7 kyu)
+URL - https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2
