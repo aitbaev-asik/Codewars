@@ -70,5 +70,5 @@ URL - https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2
 22. Perimeter of squares in a rectangle (5 kyu)
 URL - https://www.codewars.com/kata/559a28007caad2ac4e000083
 
-23. Simple Encryption #2 - Index-Difference (5 kyu) (c++) 
+23. Simple Encryption #2 - Index-Difference (5 kyu) 
 URL - https://www.codewars.com/kata/5782b5ad202c0ef42f0012cb
